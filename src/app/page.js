@@ -20,12 +20,6 @@ export default function Home() {
     },
     {
       id: "04",
-      nombre: "Catherine Aravena Parra",
-      especialidad: "Psicóloga",
-      href: "https://integravali04.agendaclinicas.cl",
-    },
-    {
-      id: "05",
       nombre: "Karina Torres León",
       especialidad: "Terapeuta ocupacional",
       href: "https://integravali05.agendaclinicas.cl",
