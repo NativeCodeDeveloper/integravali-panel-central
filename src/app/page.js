@@ -4,25 +4,25 @@ export default function Home() {
       id: "01",
       nombre: "Ariela Viviana Ruiz Paredes",
       especialidad: "Fonoaudióloga",
-      href: "https://integravali01.agendaclinicas.cl",
+      href: "https://integravali01.agendaclinicas.cl/agendaEspecificaProfersional/22",
     },
     {
       id: "02",
       nombre: "Benjamín Núñez Rojas",
       especialidad: "Terapeuta ocupacional",
-      href: "https://integravali02.agendaclinicas.cl",
+      href: "https://integravali02.agendaclinicas.cl/agendaEspecificaProfersional/23",
     },
     {
       id: "03",
       nombre: "Pamela Bustamante López",
       especialidad: "Educadora diferencial",
-      href: "https://integravali03.agendaclinicas.cl",
+      href: "https://integravali03.agendaclinicas.cl/agendaEspecificaProfersional/22",
     },
     {
       id: "04",
       nombre: "Karina Torres León",
       especialidad: "Terapeuta ocupacional",
-      href: "https://integravali05.agendaclinicas.cl",
+      href: "https://integravali05.agendaclinicas.cl/agendaEspecificaProfersional/22",
     },
   ];
 
