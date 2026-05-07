@@ -4,7 +4,7 @@ export default function Home() {
       id: "01",
       nombre: "Ariela Viviana Ruiz Paredes",
       especialidad: "Fonoaudióloga",
-      href: "https://integravali01.agendaclinicas.cl/agendaEspecificaProfersional/22",
+      href: "https://integravali01.beauty/agendaEspecificaProfersional/22",
     },
     {
       id: "02",
