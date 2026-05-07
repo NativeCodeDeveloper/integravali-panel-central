@@ -22,7 +22,7 @@ export default function Home() {
       id: "04",
       nombre: "Karina Torres León",
       especialidad: "Terapeuta ocupacional",
-      href: "https://integravali05.agendaclinicas.cl/agendaEspecificaProfersional/22",
+      href: "https://integravali05.space/agendaEspecificaProfersional/22",
     },
   ];
 
