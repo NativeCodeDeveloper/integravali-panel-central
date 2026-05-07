@@ -10,13 +10,13 @@ export default function Home() {
       id: "02",
       nombre: "Benjamín Núñez Rojas",
       especialidad: "Terapeuta ocupacional",
-      href: "https://integravali02.agendaclinicas.cl/agendaEspecificaProfersional/23",
+      href: "https://integravali02.buzz/agendaEspecificaProfersional/23",
     },
     {
       id: "03",
       nombre: "Pamela Bustamante López",
       especialidad: "Educadora diferencial",
-      href: "https://integravali03.agendaclinicas.cl/agendaEspecificaProfersional/22",
+      href: "https://integravali03.space/agendaEspecificaProfersional/22",
     },
     {
       id: "04",
