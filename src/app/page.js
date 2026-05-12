@@ -24,7 +24,21 @@ export default function Home() {
       especialidad: "Terapeuta ocupacional",
       href: "https://integravali05.space/agendaEspecificaProfersional/22",
     },
+      {
+          id: "05",
+          nombre: "Matías Fredes Madariaga",
+          especialidad: "Kinesiologo",
+          href: "https://integravali04.angendaclinica.boats/agendaEspecificaProfersional/25",
+      },
+      {
+          id: "06",
+          nombre: "Johane Fuentealba Díaz",
+          especialidad: "Terapeuta Ocupacional",
+          href: "https://integravali06.angendaclinica.xyz/agendaEspecificaProfersional/25",
+      },
   ];
+
+
 
   return (
     <main className="min-h-screen bg-[linear-gradient(180deg,#eef8f7_0%,#ffffff_28%,#f7fbf5_100%)] px-4 py-10 sm:px-6 lg:px-8">
