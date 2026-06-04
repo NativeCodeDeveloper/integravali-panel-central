@@ -35,11 +35,6 @@ export default function Home() {
           nombre: "Johane Fuentealba Díaz",
           especialidad: "Terapeuta Ocupacional",
           href: "https://integravali06.angendaclinica.xyz/agendaEspecificaProfersional/25",
-      }, {
-          id: "07",
-          nombre: "Catalina Javiera Leiva Videla",
-          especialidad: "Fonoaudióloga",
-          href: "https://integravali07.angendaclinica.boats/agendaEspecificaProfersional/23",
       },
 
   ];
