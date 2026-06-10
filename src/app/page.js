@@ -13,12 +13,6 @@ export default function Home() {
       href: "https://integravali02.buzz/agendaEspecificaProfersional/23",
     },
     {
-      id: "03",
-      nombre: "Pamela Bustamante López",
-      especialidad: "Educadora diferencial",
-      href: "https://integravali03.space/agendaEspecificaProfersional/22",
-    },
-    {
       id: "04",
       nombre: "Karina Torres León",
       especialidad: "Terapeuta ocupacional",
