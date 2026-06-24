@@ -20,9 +20,9 @@ export default function Home() {
     },
       {
           id: "05",
-          nombre: "Matías Fredes Madariaga",
-          especialidad: "Kinesiologo",
-          href: "https://integravali04.angendaclinica.boats/agendaEspecificaProfersional/25",
+          nombre: "Consuelo del Pilar Rodríguez Jofré",
+          especialidad: "Educadora de párvulos, Tutora Sombra",
+          href: "https://integravali04.angendaclinica.boats/agendaEspecificaProfersional/27",
       },
       {
           id: "06",
